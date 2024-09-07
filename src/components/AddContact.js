@@ -27,7 +27,7 @@ this.setState({name:"", email:""});
                         <input 
                         type="text" 
                         name="Name" 
-                        placeholder="Name" 
+                        placeholder="NAME" 
                         value={this.state.name}
                         onChange= {(e)=>this.setState({name:e.target.value})}></input>
                     </div>
