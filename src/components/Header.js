@@ -5,6 +5,8 @@ const Header = () =>
         <div className=" ui fixed menu">
             <div className=" ui container center">
                 <h2>CONTACT HEADERr</h2>
+                <h2>CONTACT HEADERr</h2>
+                <h2>CONTACT HEADERr</h2>
             </div>
         </div>
     )
